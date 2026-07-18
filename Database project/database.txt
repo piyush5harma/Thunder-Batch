@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Piyush Sharma",
+    "accountNumber": 1001,
+    "city": "Kolkata",
+    "age": 22,
+    "balance": 20000
+  },
+  {
+    "name": "Rahul Verma",
+    "accountNumber": 1002,
+    "city": "Delhi",
+    "age": 28,
+    "balance": 42000
+  },
+  {
+    "name": "Ananya Gupta",
+    "accountNumber": 1003,
+    "city": "Mumbai",
+    "age": 25,
+    "balance": 31500
+  },
+  {
+    "name": "Amit Kumar",
+    "accountNumber": 1004,
+    "city": "Patna",
+    "age": 30,
+    "balance": 9800
+  },
+  {
+    "name": "Sneha Singh",
+    "accountNumber": 1005,
+    "city": "Bengaluru",
+    "age": 27,
+    "balance": 75500
+  },
+  {
+    "name": "Virat Kohli",
+    "accountNumber": 1006,
+    "city": "Delhi",
+    "age": 36,
+    "balance": 100000
+  }
+]
