@@ -20,8 +20,8 @@ A simple RESTful Bank Management API built with **Node.js**, **Express.js**, and
 ## Installation
 
 ```bash
-git clone <repo-url>
-cd bank-file-database
+git clone https://github.com/piyush5harma/Thunder-Batch.git
+cd Database` project
 npm install
 npm start
 ```
